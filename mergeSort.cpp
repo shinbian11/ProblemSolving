@@ -86,7 +86,7 @@ int main()
 	{
 		cin >> v[i];
 	}
-	Partition(0, n - 1);
+	Partition(0, n- 1);
 	for (int i = 0; i < n; i++)
 		cout << v[i] << '\n';
 	return 0;
