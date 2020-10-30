@@ -2,22 +2,24 @@
 
 //MergeSort
 
+//ë‚´ê°€ ê¶ê¸ˆí–ˆë˜ ë¶€ë¶„ê³¼ ê·¸ ì§ˆë¬¸ì— ëŒ€í•œ ë‹µë³€ ì •ë¦¬!
+
 /*
-1¹ø Áú¹® : iÀÇ ¹üÀ§¸¦ i = 0 ~ i < k ±îÁö·Î ÇÏ¸é ½Ã°£ÃÊ°ú ³ª´Â ÀÌÀ¯
+1ë²ˆ ì§ˆë¬¸ : iì˜ ë²”ìœ„ë¥¼ i = 0 ~ i < k ê¹Œì§€ë¡œ í•˜ë©´ ì‹œê°„ì´ˆê³¼ ë‚˜ëŠ” ì´ìœ 
 
-> sºÎÅÍ e±îÁö ÇØ¾ß ½Ã°£ º¹Àâµµ°¡ O(nlogn)ÀÌ µÈ´Ù. 0ºÎÅÍ ½ÃÀÛÇÏ¸é O(n^2)ÀÌ µÈ´Ù. ÀÌ ¹®Á¦¿¡¼­ nÀº ÃÖ´ë 1,000,000
+> së¶€í„° eê¹Œì§€ í•´ì•¼ ì‹œê°„ ë³µìž¡ë„ê°€ O(nlogn)ì´ ëœë‹¤. 0ë¶€í„° ì‹œìž‘í•˜ë©´ O(n^2)ì´ ëœë‹¤. ì´ ë¬¸ì œì—ì„œ nì€ ìµœëŒ€ 1,000,000
 
-±îÁö °¡´ÉÇÏ¹Ç·Î, n^2ÀÌ µÇ¸é 1,000,000 x 1,000,000 = 1,000,000,000,000ÀÌ µÇ¹Ç·Î ½Ã°£ÃÊ°ú°¡ ³ª¿Ã ¼ö ¹Û¿¡ ¾ø´Ù.
+ê¹Œì§€ ê°€ëŠ¥í•˜ë¯€ë¡œ, n^2ì´ ë˜ë©´ 1,000,000 x 1,000,000 = 1,000,000,000,000ì´ ë˜ë¯€ë¡œ ì‹œê°„ì´ˆê³¼ê°€ ë‚˜ì˜¬ ìˆ˜ ë°–ì— ì—†ë‹¤.
 
-2¹ø Áú¹® : ans[i]·Î °ª ÀúÀå½ÃÄÑ³õ°í ´Ù½Ã v[i]·Î ÀÏÀÏÈ÷ ¿Å°Ü ´ã¾Æ¾ß ÇÏ´Â ÀÌÀ¯
+2ë²ˆ ì§ˆë¬¸ : ans[i]ë¡œ ê°’ ì €ìž¥ì‹œì¼œë†“ê³  ë‹¤ì‹œ v[i]ë¡œ ì¼ì¼ížˆ ì˜®ê²¨ ë‹´ì•„ì•¼ í•˜ëŠ” ì´ìœ 
 
-> Á¤·ÄµÈ ³»¿ëÀ» ´Ù½Ã v¿¡ ´ã¾ÆÁà¾ß ÀÌÈÄ ´õ Å« ¹üÀ§¸¦ ÇÕÄ¥ ¶§ "ÀÌ¹Ì Á¤·ÄµÈ ¾ç ºÎºÐÀ» mergeÇÑ´Ù"´Â ·ÎÁ÷À» ÁöÅ³ ¼ö ÀÖ´Ù. ±×·¸Áö ¾Ê´Ù¸é ¾çÂÊÀÌ Á¤·ÄµÇÁö ¾ÊÀº »óÅÂ¿¡¼­ merge¸¦ ½ÃµµÇÏ°Ô µÇ¹Ç·Î ¿Ã¹Ù¸¥ °á°ú°¡ ³ª¿Ã ¼ö ¾ø´Ù.
+> ì •ë ¬ëœ ë‚´ìš©ì„ ë‹¤ì‹œ vì— ë‹´ì•„ì¤˜ì•¼ ì´í›„ ë” í° ë²”ìœ„ë¥¼ í•©ì¹  ë•Œ "ì´ë¯¸ ì •ë ¬ëœ ì–‘ ë¶€ë¶„ì„ mergeí•œë‹¤"ëŠ” ë¡œì§ì„ ì§€í‚¬ ìˆ˜ ìžˆë‹¤. ê·¸ë ‡ì§€ ì•Šë‹¤ë©´ ì–‘ìª½ì´ ì •ë ¬ë˜ì§€ ì•Šì€ ìƒíƒœì—ì„œ mergeë¥¼ ì‹œë„í•˜ê²Œ ë˜ë¯€ë¡œ ì˜¬ë°”ë¥¸ ê²°ê³¼ê°€ ë‚˜ì˜¬ ìˆ˜ ì—†ë‹¤.
 
-3¹ø Áú¹® : s <= e·Î ÇÏ¸é ¾ÈµÇ´Â ÀÌÀ¯?
+3ë²ˆ ì§ˆë¬¸ : s <= eë¡œ í•˜ë©´ ì•ˆë˜ëŠ” ì´ìœ ?
 
-> s <= e·Î ÇÒ °æ¿ì s == eÀÎ °æ¿ì mid´Â s¿Í °°¾ÆÁø´Ù.
+> s <= eë¡œ í•  ê²½ìš° s == eì¸ ê²½ìš° midëŠ” sì™€ ê°™ì•„ì§„ë‹¤.
 
-±×·¡¼­ Partition(s, mid)°¡ Àç±ÍÈ£ÃâµÉ ¶§ ´Ù½Ã s == e°¡ µÇ°í, ±× ¾È¿¡¼­ ´Ù½Ã Partition(s, mid)°¡ È£ÃâµÇ°í... ÀÌ °úÁ¤À» ¹«ÇÑÈ÷ ¹Ýº¹ÇÏ°Ô µÇ¾î Àç±Í½ºÅÃÀÌ ¹«ÇÑÈ÷ ½×ÀÌ±â ¶§¹®¿¡ ¸Þ¸ð¸® ÃÊ°ú°¡ µÈ´Ù.
+ê·¸ëž˜ì„œ Partition(s, mid)ê°€ ìž¬ê·€í˜¸ì¶œë  ë•Œ ë‹¤ì‹œ s == eê°€ ë˜ê³ , ê·¸ ì•ˆì—ì„œ ë‹¤ì‹œ Partition(s, mid)ê°€ í˜¸ì¶œë˜ê³ ... ì´ ê³¼ì •ì„ ë¬´í•œížˆ ë°˜ë³µí•˜ê²Œ ë˜ì–´ ìž¬ê·€ìŠ¤íƒì´ ë¬´í•œížˆ ìŒ“ì´ê¸° ë•Œë¬¸ì— ë©”ëª¨ë¦¬ ì´ˆê³¼ê°€ ëœë‹¤.
 */
 #include <bits/stdc++.h>
 #define F_I ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
@@ -28,8 +30,8 @@ typedef pair<ll, ll> pl;
 
 ll Min(ll a, ll b) { return (a < b) ? a : b; }
 ll Max(ll a, ll b) { return (a < b) ? b : a; }
-ll gcd(ll m, ll n) { if (n == 0) return m; return gcd(n, m % n); } //ÃÖ´ë°ø¾à¼ö
-ll lcm(ll m, ll n) { return m * n / gcd(m, n); } //ÃÖ¼Ò°ø¹è¼ö
+ll gcd(ll m, ll n) { if (n == 0) return m; return gcd(n, m % n); } //ìµœëŒ€ê³µì•½ìˆ˜
+ll lcm(ll m, ll n) { return m * n / gcd(m, n); } //ìµœì†Œê³µë°°ìˆ˜
 
 int v[1000000];
 int ans[1000000];
@@ -60,13 +62,13 @@ void Merge(int s, int e)
 		for (int l = i; l <= mid; l++)
 			ans[k++] = v[l];
 	}
-	for (int i = s; i <= e; i++) // 1¹ø Áú¹® : iÀÇ ¹üÀ§¸¦ i = 0 ~ i < k ±îÁö·Î ÇÏ¸é ½Ã°£ÃÊ°ú ³ª´Â ÀÌÀ¯
-		v[i] = ans[i]; //2¹ø Áú¹® : ans[i]·Î °ª ÀúÀå½ÃÄÑ³õ°í ´Ù½Ã v[i]·Î ÀÏÀÏÈ÷ ¿Å°Ü ´ã¾Æ¾ß ÇÏ´Â ÀÌÀ¯
+	for (int i = s; i <= e; i++) // 1ë²ˆ ì§ˆë¬¸ : iì˜ ë²”ìœ„ë¥¼ i = 0 ~ i < k ê¹Œì§€ë¡œ í•˜ë©´ ì‹œê°„ì´ˆê³¼ ë‚˜ëŠ” ì´ìœ 
+		v[i] = ans[i]; //2ë²ˆ ì§ˆë¬¸ : ans[i]ë¡œ ê°’ ì €ìž¥ì‹œì¼œë†“ê³  ë‹¤ì‹œ v[i]ë¡œ ì¼ì¼ížˆ ì˜®ê²¨ ë‹´ì•„ì•¼ í•˜ëŠ” ì´ìœ 
 }
 void Partition(int s, int e)
 {
 	int mid;
-	if (s < e) // 3¹ø Áú¹® : s <= e·Î ÇÏ¸é ¾ÈµÇ´Â ÀÌÀ¯? 
+	if (s < e) // 3ë²ˆ ì§ˆë¬¸ : s <= eë¡œ í•˜ë©´ ì•ˆë˜ëŠ” ì´ìœ ? 
 	{
 		mid = (s + e) / 2;
 		Partition(s, mid);
@@ -84,7 +86,7 @@ int main()
 	{
 		cin >> v[i];
 	}
-	Partition(0, n - 1);
+	Partition(0, n- 1);
 	for (int i = 0; i < n; i++)
 		cout << v[i] << '\n';
 	return 0;
