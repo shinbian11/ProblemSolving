@@ -30,7 +30,7 @@ int main() //백준 2805번 : 나무 자르기 (이분 탐색), c++ > 랜선 자르기와 거의 같�
 {
 	F_I;
 
-	
+
 	cin >> n >> m;
 
 	ll mm = -1; //mm : 나무들의 최대길이
@@ -50,7 +50,7 @@ int main() //백준 2805번 : 나무 자르기 (이분 탐색), c++ > 랜선 자르기와 거의 같�
 	while (s <= e)
 	{
 		ll mid = (s + e) / 2;
-		if (calc(mid)>=m)
+		if (calc(mid) >= m)
 		{
 			if (x < mid)
 				x = mid;
