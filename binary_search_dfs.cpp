@@ -16,7 +16,7 @@ ll n, m, b, e;
 vector<pl> a[10001];
 bool visit[10001];
 
-//dfs 이용!
+//dfs로 해결!
 bool binary_search(int node, int weight_limit)
 {
 	if (visit[node]) // 이미 방문한 노드면 false 반환 (한번 거친 노드를 또 거치는 건 불가능)
