@@ -28,21 +28,24 @@ int main()
 	cin >> n;
 	vector< vector<int> > arr(n, vector<int>(n));
 
+	int mx = -1;
 
 	for (int i = 0; i < n; i++)
 	{
 		for (int j = 0; j < n; j++)
 		{
 			cin >> arr[i][j];
-
+			if (mx < arr[i][j])
+				mx = arr[i][j];
 		}
 	}
 
 	int ans = -1;
 
-	for (int k = 0; k <= 100; k++)
+	//빗물의 높이 : 0부터 시작해야 한다. 문제에서, 아무 지역도 물에 잠기지 않을 수도 있다고 했으니까!
+	for (int k = 0; k <= mx; k++)
 	{
-		vector< vector<int> > brr(arr);
+		vector< vector<int> > brr(arr); //복사본.
 
 		for (int i = 0; i < n; i++)
 		{
@@ -50,12 +53,12 @@ int main()
 			{
 				if (brr[i][j] <= k)
 				{
-					brr[i][j] = 0;
+					brr[i][j] = 0; //잠긴 부분을 0으로 표시한다.
 				}
 			}
 		}
 
-		int cnt = 0;
+		int group = 0;
 
 		for (int i = 0; i < n; i++)
 		{
@@ -63,7 +66,7 @@ int main()
 			{
 				if (brr[i][j] != 0)
 				{
-					cnt += 1;
+					group += 1; //안전 영역의 개수
 
 					queue<pi> q;
 					q.push(make_pair(i, j));
@@ -97,14 +100,11 @@ int main()
 		}
 
 
-		if (ans < cnt)
-			ans = cnt;
+		if (ans < group)
+			ans = group;
 	}
 
-	if (ans == -1)
-		cout << 1 << '\n';
-	else
-		cout << ans << '\n';
+	cout << ans << '\n';
 
 	return 0;
 }
