@@ -1,0 +1,1766 @@
+[33mcommit 720de37e722bac95b64d2ecff6a33507ff16e17c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Feb 22 18:56:47 2022 +0900
+
+    [백준] 2493번 : 탑 (Stack 이용 - Deque보다 조금 덜 복잡함)
+
+[33mcommit 5cefe39f80fbf60d131d83c944555e81a62f51e7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Feb 22 18:16:19 2022 +0900
+
+    [백준] 1874번 : 스택 수열 (스택)
+
+[33mcommit 944dc782c9ca4168f256ea0a8699e6c3b2e1d34b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 16 04:38:43 2022 +0900
+
+    [백준] 1992번 : 쿼드트리 (분할정복)
+
+[33mcommit 8a5ce54833d13622119f27beda2db5a4e9a82c31[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 16 04:37:07 2022 +0900
+
+    [백준] 1780번 : 종이의 개수 (분할정복 + 주의점)
+
+[33mcommit ec22743eb61687b628f02159a2bf893ba2123016[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 16 04:35:11 2022 +0900
+
+    delete
+
+[33mcommit e1e146baf70c64d8b0c4de1fb43b8ccbfaba2872[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 16 04:33:27 2022 +0900
+
+    [백준] 1780번 : 종이의 개수( 분할정복 기초 + 재귀함수)
+
+[33mcommit 05de2d7252e11d3ad10fe6bbda03a8ba06fabcaa[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Feb 13 02:14:45 2022 +0900
+
+    [백준] 1987번 : 알파벳 (BFS X => DFS O)
+
+[33mcommit e97c29db60b1b0ae4498f14e0ed69bd202bf1a51[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 7 10:12:04 2022 +0900
+
+    [백준] 2343번 - 기타 레슨 (이진 탐색 + 이진탐색의 궁금증)
+
+[33mcommit a6c5e98a9e5f0c86b3daa3c0ad858ddc5cbc7735[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Feb 6 14:37:47 2022 +0900
+
+    [백준] 2792번 : 보석 상자 (이분 탐색)
+
+[33mcommit cffaa5804c4f782e9b4ce623c6e45d5f48998e94[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 29 15:39:16 2022 +0900
+
+    [백준] 2559번 : 수열 (투 포인터 + 기타 개념 (undefined behavior, 문자열을 포인터로 선언했을 때 수정이 불가능한 이유) )
+
+[33mcommit 229aac0f06885799c06a204493de996716f1cea4[m
+Merge: 6a0bfb3 6763fe9
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 25 21:45:15 2022 +0900
+
+    Merge branch 'main' of https://github.com/shinbian11/ProblemSolving into main
+
+[33mcommit 6a0bfb30058bf1179599a72fbb59a76e0bf8e11b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 25 21:43:45 2022 +0900
+
+    [백준] 1450번 : 냅색문제 (시간복잡도, dfs, upper_bound, reference 기호 (&) 등등 학습)
+
+[33mcommit 6763fe9bc2cb6fb47773f01c7534c26e9f8c352b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 25 21:43:45 2022 +0900
+
+    백준 1450번 : 냅색문제 (시간복잡도, dfs, upper_bound, reference 기호 (&) 등등 학습)
+
+[33mcommit c6b5896b5b1f54dc9788570b7806bc4a8280beb1[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 21 16:19:58 2022 +0900
+
+    [백준] 3745번 : 오름세 (LIS + 이진탐색+ 입력 Testcase 정해지지 않았을 때)
+
+[33mcommit 100add314c676cf99c9f7c3c902f27ed69ed0891[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 21 14:50:47 2022 +0900
+
+    [백준] 1365번 : 꼬인 전깃줄 (LIS : 최장 증가 부분 수열 + 이진탐색 => n이 클 때)
+
+[33mcommit c7eb3d7e20647b28767d177aef2a105bd1904110[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 20 15:20:54 2022 +0900
+
+    [백준] 12738번 : 가장 긴 증가하는 부분 수열 3 (LIS : 최장 증가 부분 수열 + 이진탐색 => n이 클 때)
+
+[33mcommit 39493ce1603283ab420fa213b51b812f7d10768d[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 20 14:47:25 2022 +0900
+
+    [백준] 2352번 : 반도체 설계 (LIS : 최장 증가 부분 수열 + 이진탐색 => n이 클 때)
+
+[33mcommit 2667f28d647f49bd07a2a4c4e0651bb22017f7e2[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 20 14:17:11 2022 +0900
+
+    [백준] 2565번 : 전깃줄 (LIS : 최장 증가 부분 수열)
+
+[33mcommit 72c9fefe0364069dae581d3c5867407ceddb26a0[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 17 08:55:27 2022 +0900
+
+    [백준] 14503번 : 로봇 청소기 (DFS)
+
+[33mcommit 65a0f91a850865d2637862008f4cd2ec24fc385f[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 17 08:54:48 2022 +0900
+
+    [백준] 14503번 : 로봇 청소기 (구현)
+
+[33mcommit d1bfaaabf670ff18d8888852a2637943a7bb1d02[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 11 17:46:43 2022 +0900
+
+    [백준] 14499번 : 주사위 굴리기 (구현)
+
+[33mcommit b1cd1bcdd0eb479547ca28709284597a58ac4098[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 10 17:35:58 2022 +0900
+
+    [백준] 14719번 : 빗물(구현)
+
+[33mcommit d8d008ba5885339531810cc7cd5d7c85761ceda1[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 4 16:27:04 2022 +0900
+
+    [백준] 11656번 : 접미사 배열 (substr 함수를 이용한 문자열 slicing)
+
+[33mcommit 8dc5fb95b39aba67c9af1d850dee4d44064c418a[m
+Merge: b30c0e5 423fabb
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 4 16:23:54 2022 +0900
+
+    Merge branch 'main' of https://github.com/shinbian11/ProblemSolving into main
+
+[33mcommit b30c0e5b1a24c42c63ed91135f8ebf2435358046[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 4 16:19:20 2022 +0900
+
+    [백준] 2493번 : 탑 (Deque - 자료구조 이용)
+
+[33mcommit 423fabbabb70bf3264057068feeba27205bf91ad[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 4 16:19:20 2022 +0900
+
+    deque을 이용한 tower 문제
+
+[33mcommit 5ee4a603a2fa115ee880c97ed967824b4f858596[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon May 3 14:33:39 2021 +0900
+
+    프로그래머스 - 2021 KAKAO BLIND RECRUITMENT - 순위 검색
+
+[33mcommit bf2f767cba6112840512036535c56a964aad4cb7[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Apr 29 19:57:40 2021 +0900
+
+    프로그래머스 - Summer/Winter Coding (~2018) - 방문 길이
+
+[33mcommit f3c4af86e9428dc68c2f3735acf1fde53b8bafed[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Apr 28 17:16:35 2021 +0900
+
+    미지수 두 개를 구할 때 이중 for문이 아니라 for문 한개로 구하는 법
+
+[33mcommit aeb16d59e4e69cb445b6e5aa2839b372b78d29a6[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Apr 2 21:42:19 2021 +0900
+
+    [백준] 1213번 : 팰린드롬 만들기 (구현, 팰린드롬의 종류)
+
+[33mcommit 76a17161264bbefcd8b1bb9f310e904728e81a7a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Apr 2 16:00:04 2021 +0900
+
+    프로그래머스 - 전화번호 목록 (해쉬 & 문자열의 사전식 순서 정렬의 의미 에 대해서)
+
+[33mcommit 2f24aa32a225a25e853eec99a25de340de00efb4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Apr 2 15:27:03 2021 +0900
+
+    프로그래머스 - 더 맵게 (힙)
+
+[33mcommit 0c1242186e404b9a8ccdd7fdf3c416db921bff5b[m
+Merge: be6ab7b 30b194a
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Apr 1 03:02:46 2021 +0900
+
+    Merge branch 'main' of https://github.com/shinbian11/ProblemSolving into main
+
+[33mcommit be6ab7b89d5db0fd141ada2212f01b03cc7ed9cc[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Apr 1 03:02:30 2021 +0900
+
+    [백준] 1406번 : 에디터 (자료구조- 스택)
+
+[33mcommit 30b194a7db86685d9bcd66c709869ed23b99dd94[m
+Author: shinbian11 <59140182+shinbian11@users.noreply.github.com>
+Date:   Wed Mar 31 13:24:10 2021 +0900
+
+    Update README.md
+
+[33mcommit 2ccbf4c7883712bae1906f0599439d5d0d9ce36f[m
+Author: shinbian11 <59140182+shinbian11@users.noreply.github.com>
+Date:   Wed Mar 31 00:31:45 2021 +0900
+
+    Update
+
+[33mcommit 71d1c1f58b08dddbc9f2249f89854fae561427b4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 29 13:36:43 2021 +0900
+
+    [백준] 5567번 : 결혼식 (bfs로 해결)
+
+[33mcommit 76540f1986035318aee2e41e5980f1e9f38c6782[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 29 13:13:20 2021 +0900
+
+    [백준] 1389번 : 케빈 베이컨의 6단계 법칙 (bfs로 풀이)
+
+[33mcommit d03c5dba570741197aa6528123f2bbcecbd8cd2a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 29 12:32:21 2021 +0900
+
+    [백준] 11055번 : 가장 큰 증가 부분 수열 (dp)
+
+[33mcommit c792537b49b58e6afda16afa88cf50267c7d077b[m
+Merge: 65a6002 25d9bfb
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 29 12:31:03 2021 +0900
+
+    .
+
+[33mcommit 65a600264481f15c7a04b335ba25df7def62cabe[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 29 12:29:27 2021 +0900
+
+    [백준] 11055번 : 가장 큰 증가 부분 수열 (dp)
+
+[33mcommit 25d9bfb8a0fd084ce91499f24afe923bbea9951d[m
+Author: shinbian11 <59140182+shinbian11@users.noreply.github.com>
+Date:   Mon Mar 29 12:25:42 2021 +0900
+
+    Delete dp_Increasing_Sum.cpp
+
+[33mcommit bdc593977f33307de59ecf68b2b78662271695c5[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 29 12:23:34 2021 +0900
+
+    [백준] 11055번 : 가장 큰 증가 부분 수열
+
+[33mcommit e06086526ccfa7884ee81adfcd10e01b573d8205[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 29 11:49:20 2021 +0900
+
+    [백준] 1912번 : 연속합 (dp)
+
+[33mcommit 4b792784c2170e10245f3730f94db851c9571f95[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Mar 18 14:52:50 2021 +0900
+
+    [백준] 2099번 : The game of death
+
+[33mcommit 8d9b951f58f623430bc8fbf4ce3670a67a816e51[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Mar 18 13:30:22 2021 +0900
+
+    [백준] 1647번 : 도시 분할 계획 분류 (크루스칼)
+
+[33mcommit 123d435701567ee37d292586a893bbb15609ea33[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Mar 17 15:33:15 2021 +0900
+
+    [백준] 1507번 : 궁금한 민호 (플로이드)
+
+[33mcommit f58c96dc764dc5c6222d4639393f118683c020be[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 15 14:05:44 2021 +0900
+
+    [백준] 9465번 : 스티커
+
+[33mcommit 6f344bb9fb52d60ee3afeec68595914bafe2d909[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Mar 14 12:39:32 2021 +0900
+
+    [백준] 17144번 : 미세먼지 안녕! (BFS)
+
+[33mcommit edff742109623b9f8a6d5e45bff9d5871bf13b03[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Mar 14 12:37:18 2021 +0900
+
+    [백준] 12851번 : 숨바꼭질 2 (BFS)
+
+[33mcommit 677afc8b03a42f6813111e1bf6ee86345466e88e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Mar 13 17:03:06 2021 +0900
+
+    [백준] 15992번 : 1,2,3 더하기 문제 7
+
+[33mcommit d8686507836e85d967cb57469dad12cb81569341[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Mar 12 17:50:09 2021 +0900
+
+    프로그래머스 - 모의고사 (브루트 포스) (두번째 풀이)
+
+[33mcommit d41ec617620aa95ced5d7794a9a4867e48ace2df[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Mar 12 17:44:46 2021 +0900
+
+    프로그래머스 - 모의고사 (브루트 포스)
+
+[33mcommit 9f983365c8f33b283b9d65184f9e77c39098e7b5[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Mar 12 17:10:00 2021 +0900
+
+    프로그래머스 - 단어 변환 (DFS)
+
+[33mcommit a54c78d769654ba6fb6d4b6877da547adf14eb29[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 8 17:25:54 2021 +0900
+
+    [백준] 16234번 : 인구 이동 (BFS)
+
+[33mcommit 43fe86ca383da751aab5d5a766054d6ac01f5aac[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 8 16:18:56 2021 +0900
+
+    프로그래머스 - 타겟 넘버 (DFS)
+
+[33mcommit 7d706e81184de302181c4edea47cbd9bfe9d81fe[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 8 16:14:04 2021 +0900
+
+    프로그래머스 - 타겟 넘버 (비트마스크)
+
+[33mcommit 0ed3a15b618134e2e7b738ac08801931c7ea8fed[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 8 15:27:02 2021 +0900
+
+    프로그래머스 : Summer / Winter Coding(~2018) - 스킬트리
+
+[33mcommit ef119d3804f58aa5d55f5e3eda8913d7a890d21c[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Mar 7 16:48:36 2021 +0900
+
+    [백준] 1520번 : 내리막 길 (dp, Top-down)
+
+[33mcommit e64a3bdfeed6fe2991a7f5def2024c3f5896afbc[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Mar 7 16:44:31 2021 +0900
+
+    [백준] 1915번 : 가장 큰 정사각형 (dp- Bottom up)
+
+[33mcommit 0a3b25e8c3c170ab0606864943c70be2903f079e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Mar 7 16:43:15 2021 +0900
+
+    [백준] 1937번 : 욕심쟁이 판다 (dp, Top_down)
+
+[33mcommit 84d0526cec53cd6f8b21c66b3f228803a954e3fb[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Mar 7 16:42:05 2021 +0900
+
+    [백준] 4811번 : 알약 (dp_ Top down)
+
+[33mcommit 915fad50972d32ce4b4b3a880070b4537baf7513[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Mar 6 18:33:04 2021 +0900
+
+    [백준] 1854번 : K번째 최단경로 찾기 (다익스트라 응용)
+
+[33mcommit 7f94c15c44c44c09dfcae19767be6d00539c8886[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Mar 6 17:46:44 2021 +0900
+
+    [백준] 1162번 : 도로포장 (다익스트라)
+
+[33mcommit d3c3dcb9e9c7e5350e3f80739c369a7810c0a139[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Mar 5 13:27:07 2021 +0900
+
+    [백준] 10282번 : 해킹 (다익스트라)
+
+[33mcommit 070a4ab3f692c2571677abae837af0b857e28dd1[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Mar 4 17:43:03 2021 +0900
+
+    [백준] 1504번 : 특정한 최단 경로 (다익스트라)
+
+[33mcommit ed2510891e0d4c0fa618c53bf9b9edb422421520[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Mar 3 13:40:44 2021 +0900
+
+    [백준] 11779번 : 최소비용 구하기 2 (O(Elog E) 다익스트라 (우선순위 큐) + 경로 추적까지 한번에)
+
+[33mcommit f0214e1c2d2ef7c92f9b4413e771e3da0ea9d63f[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Mar 3 13:19:29 2021 +0900
+
+    [백준] 1948번 : 임계경로 (DAG, 위상정렬)
+
+[33mcommit b43a509afe775749f87682f796acdfdfd4e33bf7[m
+Merge: 3e1dfe3 2d34552
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 1 18:31:58 2021 +0900
+
+    Merge branch 'main' of https://github.com/shinbian11/ProblemSolving into main
+
+[33mcommit 3e1dfe3debc3b868fea948ac511423936277158d[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 1 17:59:26 2021 +0900
+
+    [백준] 1761번 : 정점들의 거리 (LCA)
+
+[33mcommit 2d34552b1323198c524117509a19a18e8605be5c[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 1 17:59:26 2021 +0900
+
+    [백준] 11438번 : LCA 2 (LCA)
+
+[33mcommit 2eff5f7d610872e934684326597b5bea1ba0c88b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 1 17:58:51 2021 +0900
+
+    delete
+
+[33mcommit ffc4e2cdeb468b8c6ffa621ffca123eef67ee431[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 1 17:57:40 2021 +0900
+
+    delete
+
+[33mcommit c32e87d5917a089be97a426bae8acafa6f9654b7[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 1 17:56:37 2021 +0900
+
+    1
+
+[33mcommit c44e5d8875639356ac865a5f8b79c6aefa1ce6e2[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Mar 1 17:05:30 2021 +0900
+
+    [백준] 11437번 : LCA ( 가장 가까운 공통 조상 찾기 (LCA : Lowest Common Ancestor) 개념 설명 - 시간복잡도 O(N) )
+
+[33mcommit 82c063f40a36a18d0ece61ee86168271b6dfbfee[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Feb 28 13:23:03 2021 +0900
+
+    프로그래머스 - 가장 큰 수 (cmp 함수 커스터마이징)
+
+[33mcommit 1ee5679f35c3104469d0f5336a35bb0258811265[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Feb 28 12:14:33 2021 +0900
+
+    2019 KAKAO BLIND RECRUITMENT - 실패율
+
+[33mcommit db8cc1d18128631a08c679308064d628632b5c01[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Feb 25 13:11:57 2021 +0900
+
+    [백준] 16959번 : 체스판 여행 1 (bfs_hard)
+
+[33mcommit 48a308e00fab207661dc958809b000514cf4ca66[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Feb 25 12:22:37 2021 +0900
+
+    [백준] 1175번 : 배달 (bfs_hard)
+
+[33mcommit 7cc99c6fdd0bae7c35e0bd7c21167f2e1159d100[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 24 13:46:23 2021 +0900
+
+    [백준] 1753번 : 최단경로 (다익스트라, O(E* logE))
+
+[33mcommit ef6b180f05eb0774b182e94a1f61371674ec14c5[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 24 12:59:42 2021 +0900
+
+    [백준] 11779번 : 최소비용 구하기 2 (다익스트라 + 경로 추적)
+
+[33mcommit 16d4c7672f85fc8ed3c68f3868522aecd27da0b4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 24 12:20:31 2021 +0900
+
+    [백준] 1865번 : 웜홀 (벨만포드)
+
+[33mcommit c7a5ac5848de5957febc31722ffcbec0010e656e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 24 12:07:57 2021 +0900
+
+    [백준] 1916번 : 최소비용 구하기 (+ 다익스트라 (O(V^2) 개념 설명)
+
+[33mcommit 9149d3d2958a1cc5c41f61afdc875c5b52c22185[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 22 13:54:05 2021 +0900
+
+    [백준] 11657번 : 타임머신 (+ 벨만포드의 개념 설명, 음의 사이클에 대하여)
+
+[33mcommit 15b84fe66aafcff542f482edc630f87e2d29cad9[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Feb 21 12:47:37 2021 +0900
+
+    [백준] 16973번 : 직사각형 탈출 (bfs - 일반적인 미로 탈출과 다른 점)
+
+[33mcommit 03d3d2e8fee711226c88f9650e9baa6e2f041a78[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Feb 21 11:13:39 2021 +0900
+
+    [백준] 1525번 : 퍼즐 (bfs, map)
+
+[33mcommit 3cfc7b9802dc6101b922f84d29822f8d2ab01640[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 10:13:45 2021 +0900
+
+    [백준] 1197번 : 최소 스패닝 트리 (by Kruskal)
+
+[33mcommit ef2d17485473805629bfb4ffd7578d849f82e473[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 09:52:25 2021 +0900
+
+    [백준] 1197번 : 최소 스패닝 트리 (by Prim)
+
+[33mcommit 47bf461ce1316fb4a1e952db2f68d550dc5c7e0f[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 09:43:11 2021 +0900
+
+    [백준] 1922번 : 네트워크 연결 (MST - prim) - 2번째 방법
+
+[33mcommit 87341a91fd98f93a7202ae06750afd10b380e91b[m
+Merge: 45320a5 ab83f90
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 09:27:19 2021 +0900
+
+    Merge branch 'main' of https://github.com/shinbian11/ProblemSolving into main
+
+[33mcommit 45320a5f52b0206ab48867001551df3517dc30ae[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 09:27:03 2021 +0900
+
+    [백준] 1922번 : 네트워크 연결 (MST - prim)
+
+[33mcommit 55d8a419c820ba0ae88ccf9028728bdce1da8147[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 04:03:00 2021 +0900
+
+    [백준] 2056번 : 작업 (위상 정렬)
+
+[33mcommit ab83f90521d9246e2a82d53e6ec196d7d7dbabf4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 04:03:00 2021 +0900
+
+    [백준] 2056번 : 작업 (위상 정렬)
+
+[33mcommit e2ab1d36b052065a988d81625f8a4e4742cae828[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 04:01:46 2021 +0900
+
+    delete file
+
+[33mcommit 4b63693c88808cadfbf28f20314cb325bb067f89[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 03:59:13 2021 +0900
+
+    shinb@DESKTOP-5UI7C6P MINGW64 ~/OneDrive/문서/
+
+[33mcommit bac8afd7b34715633535886d3c2537e63b699531[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 03:22:26 2021 +0900
+
+    [백준] 2252번 : 줄 세우기 (위상정렬)
+
+[33mcommit 582addfe00ca5e48c4c455b9763c4a15badbd769[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 03:20:07 2021 +0900
+
+    [백준] 1766번 : 문제집 (위상정렬 + 우선순위 큐)
+
+[33mcommit 36bc640cb971208e9f90c877719676669ab422e3[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 03:07:25 2021 +0900
+
+    세그먼트 트리 간단한 틀
+
+[33mcommit 00ae9b84747b4add8dc5596051d68352349ca5e8[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 03:00:57 2021 +0900
+
+    DAG와 위상정렬의 개념, 위상정렬의 구현 (BFS/DFS)
+
+[33mcommit a701a923d68da273c93dea845c507b10104ef96d[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 20 00:06:07 2021 +0900
+
+    [백준] 2636번 : 치즈 (BFS)
+
+[33mcommit 99c89a451aed055fd6664820cd6465f291215d36[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Feb 18 14:17:10 2021 +0900
+
+    [백준] 1484번 : 다이어트 (투 포인터)
+
+[33mcommit 51aaf3610d809d384c2a66fcd720a7373710b9af[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Feb 16 18:20:33 2021 +0900
+
+    [백준] 2143번 : 두 배열의 합
+
+[33mcommit c7888fb56bec1225fb1593b08fee52ad8ea87bf2[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Feb 16 18:19:07 2021 +0900
+
+    [백준] 7453번 : 합이 0인 네 정수
+
+[33mcommit 7ce6703e102d0f2bdab111a4d179555bfc285c3e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 15 22:37:33 2021 +0900
+
+    [백준] 1208번 : 부분수열의 합 2 (중간에서 만나기 + 투 포인터)
+
+[33mcommit e718cacf8aa739f54c0817c1d707c3afaed088c8[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 15 20:50:27 2021 +0900
+
+    [백준] 1644번 : 소수의 연속합 (소수 배열에서의 투 포인트 + 에라토스테네스의 체)
+
+[33mcommit f33babb03f19c4fa72e364c04cf3ad48d0f4d28c[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 15 20:12:58 2021 +0900
+
+    [백준] 1806번 : 부분합 (최소길이 찾기) (투 포인터)
+
+[33mcommit 589d5373da7eb915bfcf76ab70118158a4200e8d[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 15 20:04:40 2021 +0900
+
+    [백준] 2003번 : 수들의 합 2 (브루르포스 + 투 포인터)
+
+[33mcommit fd8f524550a69952e2d0a63f54e636b84f068959[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 15 19:03:57 2021 +0900
+
+    2018 KAKAO BLIND RECRUITMENT - [1차] 비밀지도
+
+[33mcommit d3099cb4195b9ace2daba11a31560532d2710285[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 15 12:47:27 2021 +0900
+
+    2019 KAKAO BLIND RECRUITMENT - 오픈채팅방
+
+[33mcommit d08ce89dbe0a23ce790a9e9ae3c5597f81fadb07[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 15 03:19:12 2021 +0900
+
+    2020 카카오 인턴십 - 키패드 누르기
+
+[33mcommit bf3c91ebf05407da68cf09bc73b0c86d33b8c03e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 15 02:45:38 2021 +0900
+
+    2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임
+
+[33mcommit c995bd19b725a6998b7f98698b0ee7963d8980bf[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Feb 14 01:41:36 2021 +0900
+
+    [백준] 2163번 : 초콜릿 자르기 (Top-down)
+
+[33mcommit 794f0153c536c091e2bde662f5c7a520983166e6[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 13 22:33:59 2021 +0900
+
+    [백준] 2281번 : 데스노트 (dp,TOP down)
+
+[33mcommit e8dda22ad223119b6b1763151e61eb6e5edb38b8[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 13 22:31:14 2021 +0900
+
+    [백준] 12996번 : Acka (dp)
+
+[33mcommit 0f18054842e0f24c4340631e9a786f6d9e099b32[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 13 22:29:57 2021 +0900
+
+    [백준] 16953번 : A -> B (브루트 포스)
+
+[33mcommit 3b925d636aa7eed238ffe603d2108a6ecd004a8e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 13 22:28:01 2021 +0900
+
+    [백준] 16945번 : 매직 스퀘어로 변경하기 (브루트 포스)
+
+[33mcommit 6bf374f3130b6fc5c6ceab976bb4765ef1783f14[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 13 22:18:54 2021 +0900
+
+    [백준] 4902번 : 삼각형의 값 (브루트 포스)
+
+[33mcommit 99f3dddbfd01a2141ce5e3b7817a52558a9b6741[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Feb 11 01:11:11 2021 +0900
+
+    [백준] 15684번 : 사다리 조작 (브루트 포스)
+
+[33mcommit edcd82a5587c8f46741cdfbafc585112ae7b3146[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 10 20:30:38 2021 +0900
+
+    [백준] 16988번 : Baaaaaaaaaduk2 (Easy) (브루트 포스)
+
+[33mcommit aadf8f3fcf47c0f5289c737bafc75cd97a40b675[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 10 17:35:22 2021 +0900
+
+    [백준] 3055번 : 탈출 (bfs)
+
+[33mcommit 3156f7cc1971f9dfdea901fe51ebd93b210da188[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 8 23:16:48 2021 +0900
+
+    [백준] 1325번 : 효율적인 해킹 (DFS)
+
+[33mcommit fbc17cf36707eca8d1575056f24e0551b2bb02cd[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 8 18:39:49 2021 +0900
+
+    [백준] 2606번 : 바이러스 (Union-Find)
+
+[33mcommit 7fc095697c6d611e0e5461c23b0f261d1978198b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 8 18:37:51 2021 +0900
+
+    [백준] 2606번 : 바이러스 (Union-Find)
+
+[33mcommit b13d64bef8c6768385a5f54d1c38b77c7294cefd[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 8 18:15:02 2021 +0900
+
+    [백준] 1717번 : 집합의 표현 (Union-Find)
+
+[33mcommit 19eea59176a1da0cfcb744fbfc2fad17cd9e1967[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Feb 7 04:43:56 2021 +0900
+
+    2020 KAKAO BLIND RECRUITMENT - 문자열 압축
+
+[33mcommit 2340942b1e74ff324ca1ec6aa745c83dbe0f314e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 6 23:17:29 2021 +0900
+
+    AtCoder Beginner Contest 191 : C - Digital Graffiti
+
+[33mcommit 4357f48649314eca5c08e0c79cfb79320fca85ed[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 6 16:22:14 2021 +0900
+
+    2021 KAKAO BLIND RECRUITMENT 문제 - 신규 아이디 추천 (문자열에 대한 공부)
+
+[33mcommit 8c1d9f559fe5eb0def7c015bc8f069a52d0ff356[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Feb 6 03:38:37 2021 +0900
+
+    [백준] 2644번 : 촌수 계산 (bfs)
+
+[33mcommit 85732873a88a08e71dbe28797e9fb8ebb111baac[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Feb 5 21:50:40 2021 +0900
+
+    [백준] 2583번 : 영역 구하기 (dfs)
+
+[33mcommit d748cd769015506403283c462a4d7bd4760a68e4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Feb 5 20:43:33 2021 +0900
+
+    [백준] 1010번 : 다리 놓기 (dp. bottom-up)
+
+[33mcommit 25030f370e14a44660b49220bfd3a9eb35881668[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Feb 5 18:57:20 2021 +0900
+
+    [백준] 2156번 : 포도주 시식 (dp - bottom-up)
+
+[33mcommit 4909d41fbc5f8ab8a3698444d19c1defee21f45a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 3 20:53:19 2021 +0900
+
+    [백준] 16987번 : 계란으로 계란치기 (브루트 포스)
+
+[33mcommit ad03aa274a62642f63c757375acff5057c05731a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Feb 3 13:28:13 2021 +0900
+
+    [백준] 3111번 : 검열 (스택, 문자열)
+
+[33mcommit 3050e5a2581ae58578ab18203b6a18aafe1ccefd[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 1 18:33:40 2021 +0900
+
+    [백준] 17142번 : 연구소 3 (bfs) >> 17141번 : 연구소 2와 거의 비슷하다.
+
+[33mcommit df0959a1c0e8b7c0cbfac1c46ded1007df5b05f7[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Feb 1 17:32:36 2021 +0900
+
+    [백준] 17141번 : 연구소 2 (bfs)
+
+[33mcommit aeaf315359c515535042faaff2df48451d4cdefd[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 31 14:17:56 2021 +0900
+
+    [백준] 7562번 : 나이트의 이동 (bfs)
+
+[33mcommit 6eb2422828cb9ba459204e1d4707a9bf9758cf36[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 31 14:05:15 2021 +0900
+
+    [백준] 2468번 : 안전 영역 (bfs)
+
+[33mcommit 03140d06c3daf6e3acc318c42bd351706aa879e8[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 31 13:58:06 2021 +0900
+
+    [백준] 2468번 : 안전 영역 (bfs)
+
+[33mcommit 1fd10fecfab0c52c23631925b3481989ac227cfa[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 31 13:06:29 2021 +0900
+
+    [백준] 14502번 : 연구소 (bfs, 브루트 포스)
+
+[33mcommit 85be604626c981f7b3b7dce72606878c12572cc3[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 30 19:39:50 2021 +0900
+
+    [백준] 17085번 : 십자가 2개 놓기 (브루트 포스)
+
+[33mcommit 3926008d4b1e3be5a1e0f272d6b804836b33858c[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 29 20:56:10 2021 +0900
+
+    [백준] 19538번 : 루머 (bfs)
+
+[33mcommit 9caa1ea9ae3f61578870dfe76713e2303c05387a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 28 16:58:54 2021 +0900
+
+    [백준] 17069번 : 파이프 옮기기 2 (브루트 포스 살짝 + dp)
+
+[33mcommit 297ca364f697ff19c571245a51df4a7a1573b10e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 28 16:55:46 2021 +0900
+
+    [백준] 16638번 : 괄호 추가하기 2
+
+[33mcommit e79d84d430fc576584d6bdb0fda8ea44e939d2fa[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 28 15:01:05 2021 +0900
+
+    [백준] 17070번 : 파이프 옮기기 1 (브루트 포스)
+
+[33mcommit 194ac9b8db3ad0bedb5f9399451d6eb5faebe9cf[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 27 16:30:03 2021 +0900
+
+    [백준] 12026번 : BOJ 거리 (dp, Bottom_up)
+
+[33mcommit e4418a07eb6011463574d966069490f484006296[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 27 15:59:12 2021 +0900
+
+    [백준] 14238번 : 출근 기록 (DP, TOP_DOWN)
+
+[33mcommit 0d60a30555985f99098ba77b719eafc35f5af69d[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 27 15:06:09 2021 +0900
+
+    [백준] 12969번 : ABC (dp, Top-down)
+
+[33mcommit bdb7dd362590ee670dfc4ade3eb1be938f64c88d[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 26 13:23:11 2021 +0900
+
+    [백준] 17406번 : 배열 돌리기 4 (브루트 포스)
+
+[33mcommit 30946b01000da63abde3abc0514db5463696ce8c[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 26 13:20:57 2021 +0900
+
+    [백준] 17406번 : 배열 돌리기 4 (브루트 포스)
+
+[33mcommit c9aac62ff4f18dc821a4c0060f5af2e747eda642[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 26 12:27:45 2021 +0900
+
+    [백준] 5557번 : 1학년 (dp, Top-down)
+
+[33mcommit 562ab4f002c23c34800319986d1437af79421512[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 25 17:27:29 2021 +0900
+
+    [백준] 5557번 : 1학년 (dp, bottom-up)
+
+[33mcommit 6c4ed065977166debb65061aa2d94c8c5a7499a4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 25 13:21:45 2021 +0900
+
+    [백준] 17089번 : 세 친구 (브루트 포스)
+
+[33mcommit be6834e869e791a7e8ee749e1aa8a9cbd0e6bb3a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 25 13:00:52 2021 +0900
+
+    [백준] 2234번 : 성곽 (비트마스킹, BFS)
+
+[33mcommit 552f2d4138d171ac81d8c1f10da9cc0dd2f42d9c[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 25 12:50:28 2021 +0900
+
+    [백준] 1890번 : 점프 (dp, Top-down)
+
+[33mcommit d7ce6e2a5acb4e709238d0f38877dc9385a9fcfd[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 25 12:10:05 2021 +0900
+
+    [백준] 11049번 : 행렬 곱셈 순서 (dp, Top-down)
+
+[33mcommit 59399c92f44f54ccb2c2fd04fbacdae53c0b79cc[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 25 11:04:51 2021 +0900
+
+    [백준] 1890번 : 점프 (dp, bottom-up)
+
+[33mcommit 97b80a7ce7a35055a1ebb9aafe4334d9258d418f[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 24 19:02:56 2021 +0900
+
+    [백준] 11058번 : 크리보드 (dp, top-down)
+
+[33mcommit fa810a4d7b254d07b98ef37da017a7093c663024[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 24 18:35:56 2021 +0900
+
+    [백준] 11058번 : 크리보드 (dp, bottom-up)
+
+[33mcommit d4dbe63b1a803137b9d5dba2e69d821525b7bd8f[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 24 11:02:23 2021 +0900
+
+    [백준] 9944번 : NxM 보드 완주하기 (브루트 포스)
+
+[33mcommit a87998879c55cd73481c11b26fabab622352b0d2[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 24 09:32:09 2021 +0900
+
+    [백준] 2422번 : 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 (brute-force)
+
+[33mcommit 1c4e8f1156bbaced41716cd7a360c11c11725eb0[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 19:24:17 2021 +0900
+
+    [백준] 12869번 : 뮤탈리스크(bottom-up)
+
+[33mcommit 4feed1d7ebf34083bf9ba2e3f642f00f51027088[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 19:23:25 2021 +0900
+
+    [백준] 12869번 : 뮤탈리스크(bottom-up)
+
+[33mcommit c079c589a1e68e2fb9b615e5fa667767f0dbb277[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 18:38:43 2021 +0900
+
+    [백준] 12869번 : 뮤탈리스크(bottom-up)
+
+[33mcommit 32b87e7ea670e3950206cdb698a058226ab73f22[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 18:38:10 2021 +0900
+
+    d
+
+[33mcommit 0b0abb86a410c7de82a5bc14e31ac2206690c6a4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 18:37:30 2021 +0900
+
+    [백준] 12869번 : 뮤탈리스크(bottom-up) - 도움주신 doju님 감사합니다git add .
+
+[33mcommit f8ea9be4ace435e44e7eeca0910bb46091a1c59b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 18:36:18 2021 +0900
+
+    d
+
+[33mcommit 0785c13c06a8ee00888c137222c8dd0b958e29a1[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 18:35:40 2021 +0900
+
+    [백준] 12869번 : 뮤탈리스크(bottom-up) >> 도움주신 doju님 감사합니다git add .
+
+[33mcommit e98ba6197b1a4bbe1f2eb29c9d872660acbab580[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 18:35:06 2021 +0900
+
+    d
+
+[33mcommit bacaca69136ac0b86787c80b358024f359413d87[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 18:34:32 2021 +0900
+
+    [백준] 12869번 : 뮤탈리스크(bottom-up) >> 도움주신 doju님 감사합니다git add .
+
+[33mcommit 893e1cc30611e0cb3032a98fd45e86b5950c450b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 16:31:24 2021 +0900
+
+    [백준] 11722번 : 가장 긴 감소하는 부분 수열(dp)
+
+[33mcommit 0d00c9252feb2b0ff3723d188613d4996fd05452[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 15:57:10 2021 +0900
+
+    [백준] 10422번 :  괄호 (dp)
+
+[33mcommit 8d8ee90817ec2b28cc9de358b26aaa7fd385f551[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 15:22:13 2021 +0900
+
+    [백준] 3019번 : 테트리스 (구현)
+
+[33mcommit ba54cbee2ea842a177a0d5ee36cafdfc9feff73b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 14:21:35 2021 +0900
+
+    [백준] 10422번 :  괄호 (dp)
+
+[33mcommit 0f4c8e91426f4d05bda7c5d58c7bc6856f25daf2[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 12:59:57 2021 +0900
+
+    [백준] 12869번 : 뮤탈리스크 (dp + Top-down)
+
+[33mcommit f2ef21b4e5ceb552c75f156dd5c341d29d4d687a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 23 10:25:49 2021 +0900
+
+    [백준] 1495번 : 기타리스트 (dp, Top-down)
+
+[33mcommit 8503951dd3769fafc3879802926b60142862869b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 22 16:58:56 2021 +0900
+
+    [백준] 11066번 : 파일 합치기 (dp, top-down)
+
+[33mcommit b01d6f46b274fc3384a87cb0178b8b974d066e57[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 22 16:29:47 2021 +0900
+
+    [백준] 1495번 : 기타리스트 (dp)
+
+[33mcommit f38ce33a3c04d1dbf476bc655af77fa91fd11339[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 22 14:05:54 2021 +0900
+
+    [백준] 2210번 : 숫자판 점프 ( 브루트 포스 + 중복 제거)
+
+[33mcommit f1877441ec07abd395eef1da945e6d1071b79115[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 22 13:52:49 2021 +0900
+
+    [백준] 15686번 : 치킨 배달 (브루트 포스)
+
+[33mcommit 66638d010da698b0f7fa1b0cc7725d6b6bbe03ad[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 21 20:29:51 2021 +0900
+
+    [백준] 17088번 : 등차수열 변환 (브루트 포스 + 수학)
+
+[33mcommit f3ca8e84e3ad1c32bbd734121d57520b0498add6[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 21 19:40:06 2021 +0900
+
+    [백준] 15683번 : 감시 (브루트 포스)
+
+[33mcommit da497a1f73ea6dec5d4620dff1312d64d57dd3ff[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 21 19:38:48 2021 +0900
+
+    delte
+
+[33mcommit 35c736d6a8408ae59865d3eb81a5ee3818783c5f[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Thu Jan 21 19:37:54 2021 +0900
+
+    [백준] 15683번 : 감시 (브루트 포스)
+
+[33mcommit 1bc3df561c21221b1941762e57f2a70b67b3a246[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 20 21:28:42 2021 +0900
+
+    [백준] 16637번 : 괄호 추가하기 (브루트 포스 + 계산)
+
+[33mcommit b99c7c487cc04e6021c29176eb1e48971cbadf1e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 20 14:12:09 2021 +0900
+
+    [백준] 16943번 : 숫자 재배치 (브루트 포스 + stoi)
+
+[33mcommit be6ce4beb9ac35b170069898c5b818b5d791f37f[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 20 14:11:15 2021 +0900
+
+    delete
+
+[33mcommit 9962b2c0ce9be12d13a09835a7d561e8c6383fa7[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 20 14:06:39 2021 +0900
+
+    백준 16943번 : 숫자 재배치 (브루트 포스 + stoi)
+
+[33mcommit c61594a0ae7fab1e697f1a668446c71449d18ca2[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 20 13:50:09 2021 +0900
+
+    codeforces : B. Different Divisors (Codeforces Round #696 (Div. 2))
+
+[33mcommit 10bcfdd090beb7a0b471465bc775ecf6f642cce8[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 19 14:50:42 2021 +0900
+
+     [백준] 4949번 : 균형잡힌 세상 (스택+ 괄호 짝짓기)
+
+[33mcommit 6c88cee40ba49b9983b887170c5bb4b939f1f115[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 19 12:59:26 2021 +0900
+
+    [백준] 3015번 : 오아시스 재결합 (스택의 역할)
+
+[33mcommit 6a077dc6faf69df04a40a46601311f9cecd2357f[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 19 09:00:53 2021 +0900
+
+    [코드포스] A. Donut Shops (Educational Codeforces Round 90 (Rated for Div. 2))
+
+[33mcommit 4659f96701518a0562fa5b514eb6f7f934a92e7e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 18 10:56:29 2021 +0900
+
+    [백준] 2151번 : 거울 설치 (BFS)
+
+[33mcommit ee2664cbd0d8f1dd106674425f1c19a708ace6db[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 18 09:40:13 2021 +0900
+
+    [백준] 4991번 : 로봇 청소기 (BFS + 조합(permutation))
+
+[33mcommit 360b9fde8d473a219d83d3bb9d882777e091d6c0[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 17 12:03:38 2021 +0900
+
+    [백준] 17086번 : 아기 상어 2
+
+[33mcommit 6a54cf305fb17dd614529d18b41fd7f1a26ba19d[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 17 11:41:42 2021 +0900
+
+    [백준] 1600번 : 말이 되고픈 원숭이 (2차원이 아닌 3차원 배열을 사용한 BFS)
+
+[33mcommit ac6b8c536999821123488599b35522c11f463ed6[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 17 11:39:28 2021 +0900
+
+    .
+
+[33mcommit b89da1dfe098c43a19b7c80866065f5d924983b7[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 17 11:29:02 2021 +0900
+
+    [백준] 1600번 : 말이 되고픈 원숭이 (2차원이 아닌 3차원 배열을 사용한 BFS)
+
+[33mcommit 26bff113ea5a82033928c3c54eb8a40cde124800[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 17 09:51:05 2021 +0900
+
+    [백준] 16932번 : 모양 만들기 (BFS + 벡터의 중복 제거 방법 (unique) + 인접 정보 이용)
+
+[33mcommit 93ec4a484a46fd4b21e6b4eb1e291a53c21c0b08[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 16 10:55:42 2021 +0900
+
+    [백준] 17436번 : 소수의 배수 (포함/배제의 원리 : Inclusion-exclusion Principle)
+
+[33mcommit fa328608dfe1d89468231e138e5c25ac5cdfb929[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 16 10:23:10 2021 +0900
+
+    [백준] 11050번 : 이항 계수 1 (파스칼의 삼각형 이용)
+
+[33mcommit 0e09669c0b036d1b8de71359367b3544713c4a9a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 16 09:33:10 2021 +0900
+
+    [백준] 11444번 : 피보나치 수 6 (피보나치 수를 행렬 거듭제곱으로)
+
+[33mcommit 8974121ae395d8bc8595c68f8a9bdebd80630020[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 16 08:50:30 2021 +0900
+
+    [백준] 2749번 : 피보나치 수 3 (피사노 주기)
+
+[33mcommit 37f71632a91068158a71e862cdafd40ebe4cb524[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 16 08:21:22 2021 +0900
+
+    [백준] 10830번 : 행렬 제곱 (수학+ 거듭제곱과 연산자 오버로딩)
+
+[33mcommit 8b683048ab1c5e55b4b088b7f56a8f681cf6374e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 16 07:54:38 2021 +0900
+
+    [백준] 2740번 : 행렬 곱셈
+
+[33mcommit 9feb11c1d507bb9d96ba140b10b493cee2ce8bba[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 16 07:21:16 2021 +0900
+
+    [백준] 1629번 : 곱셈 (수학 + 효율적인 거듭제곱 방법)
+
+[33mcommit 9b0d7adb55e268e94f8b61dffdf5441987758955[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 16 02:14:48 2021 +0900
+
+    [백준] 1701번 : Cubeditor (KMP)
+
+[33mcommit fe0e2ac78bf8329220186c26e7db40bccf516222[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 16 01:38:58 2021 +0900
+
+    [백준] 1305번 : 광고 (KMP + fail 함수 설명)
+
+[33mcommit ea5a10a8b7d218515bc5dd52c9477fcbddcdf8f5[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 15 22:18:46 2021 +0900
+
+    [백준] 6549번 : 히스토그램에서 가장 큰 직사각형 (스택)
+
+[33mcommit d2e60f96fda27fe8efb4a2979bfa6c57f24fd6f4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 20:02:20 2021 +0900
+
+    [백준] 12101번 : 1,2,3 더하기 2 (dp, 규칙성)
+
+[33mcommit 2e4c2cf5e2cb7bd05d993a6e2296604030e8f649[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 19:38:19 2021 +0900
+
+    [백준] 15988번 : 1,2,3 더하기 3 (dp)
+
+[33mcommit db3514d479cd965e17bba9f3c0237206704a6487[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 19:27:06 2021 +0900
+
+    [백준] 9095번 : 1,2,3 더하기 (dp : bottom-up)
+
+[33mcommit 21f4ae872a0a675b9e8a00f71a28845d0cfd2688[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 19:18:09 2021 +0900
+
+    [백준] 15989번 : 1,2,3 더하기 4 (dp : bottom-up)
+
+[33mcommit 9b9c6e3cc623b68bcf751b2a8721d70d7de88825[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 18:31:31 2021 +0900
+
+    [백준] 10942번 : 팰린드롬? (dp : top-down (재귀함수 이용) )
+
+[33mcommit ceeb99c910c283ff76f445b39ddefd8a44bc5cc9[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 18:21:58 2021 +0900
+
+    [백준] 10942번 : 팰린드롬? (dp : bottom-up (반복문 이용) )
+
+[33mcommit 8b798c179555f26365ecaccd52ed3b9860e7e235[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 16:44:02 2021 +0900
+
+    [백준] 16916번 : 부분 문자열 (라빈-카프 알고리즘)
+
+[33mcommit aef18d9035f11facfc9812ef7ed7bc5bb54ca560[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 01:52:56 2021 +0900
+
+    [백준] 1764번 : 듣보잡 (multiset과 set)
+
+[33mcommit b06ecbfe7ad5c3eb973d84c90f393f61a0d044b1[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 01:40:48 2021 +0900
+
+    [백준] 7785번 : 회사에 있는 사람 (map)
+
+[33mcommit 3711c06161defe8c1675b99aeb488b771257e8ce[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 01:35:28 2021 +0900
+
+    [백준] 7785번 : 회사에 있는 사람 (set)
+
+[33mcommit cc5b500fe612a022986e82562189b4b0d6da23e6[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 01:00:19 2021 +0900
+
+    [백준] 1655번 : 가운데를 말해요 (우선순위 큐)
+
+[33mcommit 43d1230b9e7e6321139f3facbe59f599f81034b6[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 00:17:47 2021 +0900
+
+    [백준] 2606번 : 바이러스 (DFS)
+
+[33mcommit 02db9ed3907c76811101cf5d00376c7a8126a009[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 00:10:20 2021 +0900
+
+    [백준] 2606번 : 바이러스 (BFS)
+
+[33mcommit e2270161f259a956a367f77d42622d5a3ce95354[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Jan 13 00:03:35 2021 +0900
+
+    [백준] 2606번 : 바이러스 (Union-Find)
+
+[33mcommit b56ac5f9d4ed147d547ad6f0194ccdb5e0277e2a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 12 21:36:59 2021 +0900
+
+    [백준] 9935번 : 문자열 폭발
+
+[33mcommit 3788835bbaa33a103d3aaefd65360778fdbec85b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 11 20:51:01 2021 +0900
+
+    [백준] 15486번 퇴사 2 (dp)
+
+[33mcommit d9da6bd92762d13d1a57511d21cc5f925c1a57f0[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 11 18:10:44 2021 +0900
+
+    [백준] 11060번 : 점프 점프 (dp + bottom_up 2)
+
+[33mcommit e25181adf0e924be6a9187bb8fb9bdd13d7e5ded[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 11 18:05:19 2021 +0900
+
+    [백준] 11060번 : 점프 점프 (dp + bottom_up)
+
+[33mcommit 191d9447e680baaa35df3da9c6a0ef6cac519a39[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 11 16:54:45 2021 +0900
+
+    [백준] 11048번 : 이동하기 (dp) >> top-down (재귀함수2)
+
+[33mcommit 58ce794f6ed27539e7c313972756e0f70bef6ae1[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 11 16:37:48 2021 +0900
+
+    [백준] 11048번 : 이동하기 (dp) >> top-down (재귀함수)
+
+[33mcommit e284e1c534b993f47b3ed6d062cf83b56d9563ed[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 11 16:29:34 2021 +0900
+
+    [백준] 11048번 : 이동하기 (dp) >> bottom-up (반복문)
+
+[33mcommit babe3bcab7f76d3b3ad7ed25e3ec588bbc5ac16e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 11 16:28:24 2021 +0900
+
+    delete
+
+[33mcommit 3e911b4e5e448a138decf4cb09285db2adab6050[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 11 16:21:02 2021 +0900
+
+    [백준] 11048번 : 이동하기 (dp)
+
+[33mcommit fbf8fc9a80b7758a437e1dbc7dab0722c56440ab[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 8 19:25:05 2021 +0900
+
+    [백준] 9376번 : 탈옥 (고난이도 bfs + 각각 생각)
+
+[33mcommit 51ec7edb8574145afd6ed4c5cd439abf13cc070a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 8 15:09:19 2021 +0900
+
+    [백준] 5014번 : 스타트링크 (bfs)
+
+[33mcommit 91fcdcc87ef354f25527b8d9d5532d314b7de266[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 8 14:05:21 2021 +0900
+
+    [백준] 16956번 : 늑대와 양 (BFS + 생각의 전환)
+
+[33mcommit 91fb32fef7485770f82e4c20eb6452273ecf68e8[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 8 13:47:09 2021 +0900
+
+    [백준] 16938번 : 캠프 준비 (브루트 포스)
+
+[33mcommit 63a091508d1ba37bcea4ff87831c4ba8face631a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 8 13:14:38 2021 +0900
+
+    [백준] 16937번 : 두 스티커 (브루트 포스)
+
+[33mcommit 30e0a04ddad73136e8fe4bd32ea6cc1407dfdd42[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 5 14:14:20 2021 +0900
+
+    [백준] 16936번 : 나3곱2 (브루트 포스 + 수학적 개념(인수))
+
+[33mcommit 5268d6dd0397d49f093faad4774adf381f41a8dc[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 5 13:12:23 2021 +0900
+
+    [백준] 16924번 : 십자가 찾기 (브루트 포스)
+
+[33mcommit 4e6ea12d10504e9bad2bf93f011a77710e983c00[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 5 11:13:10 2021 +0900
+
+    [백준] 16922번 : 로마 숫자 만들기 (브루트 포스 + 시간복잡도 줄이기)
+
+[33mcommit fa7b4c59bc66bbc3f417eb45899296fe3fda4a03[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Jan 5 10:48:55 2021 +0900
+
+    [백준] 16917번 : 양념 반 후라이드 반 (브루트 포스)
+
+[33mcommit c42c0b45e579692c1217e293f28fb377143439f7[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 4 19:26:40 2021 +0900
+
+    lower_upper_bound 설명
+
+[33mcommit 9ec757c39a04c7fc0d46e09d254a7ef135e09974[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 4 19:09:51 2021 +0900
+
+    [백준] 12015번 : 가장 긴 증가하는 부분 수열 2 (lower_bound, upper_bound)
+
+[33mcommit 0f4442d19fcb5cb3204815e0edb9091970611e06[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Jan 4 12:09:20 2021 +0900
+
+    [백준] 16968번 : 차량 번호판1 (브루트 포스)
+
+[33mcommit a5973f727dc1730ed8f4c25ceba74b17aa6742a6[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 3 19:44:07 2021 +0900
+
+    [백준] 1202번 : 보석 도둑 (그리디 + cmp 비교함수 정의 + 우선순위 큐)
+
+[33mcommit f55396b2d3598cf3baf9ecb761e7177c13ed8212[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 3 18:15:43 2021 +0900
+
+    [백준] 2109번 : 순회 강연 (그리디 알고리즘, 튜플)
+
+[33mcommit edba5af6dc8726dcaecfedaf731a34bf0ecc5229[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Jan 3 16:49:14 2021 +0900
+
+    [백준] 2138번 : 전구의 스위치 (그리디 알고리즘 + 값/주소에 의한 변경)
+
+[33mcommit 45bdda6b159ed0ede226a540ec16f96ce3582d35[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 2 07:31:44 2021 +0900
+
+    [백준] 1377번 : 버블 소트 (버블 소트의 이해)
+
+[33mcommit 7e3fef0662bda92eb24db95f111172eec4a0a342[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 2 06:43:55 2021 +0900
+
+    [백준] 10825번 국영수 : 정렬해야 하는 field가 여러 개이고, 정렬기준이 모두 다를때
+
+[33mcommit 86d0b33a9bff5042c5101292372ea02161ff1055[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 2 06:31:19 2021 +0900
+
+    [백준] 10814번 : 나이순 정렬 (sort 함수의 우선순위)
+
+[33mcommit af36911e682baa878d9bf69d814d08b08b32a76d[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 2 06:23:00 2021 +0900
+
+    [백준] 11651번 : 좌표 정렬하기 2 (c++ sort와 cmp 비교함수)
+
+[33mcommit e3e7ce2832a58f4e18e63515a43755480a64045e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 2 06:10:11 2021 +0900
+
+    [백준] 11651번 : 좌표 정렬하기 2 (c++ sort 함수의 힘)
+
+[33mcommit e04c3dcdda28cff3cc3a00d05fbac51fb5a83656[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 2 05:52:08 2021 +0900
+
+    [백준] 14395번 : 4연산 (bfs 유형처럼 보이지 않는 문제)
+
+[33mcommit bd2c67d8d3b651f38c24b6acf5a3907e05a21013[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Jan 2 04:58:54 2021 +0900
+
+    [백준] 10026번 : 적록색약
+
+[33mcommit f00b616b403780c6117e1ee0125a77801db6a7e0[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 1 16:11:22 2021 +0900
+
+    [백준] 1963번 : 소수 경로 (그렇게 안 보이지만 bfs로 풀 수 있음)
+
+[33mcommit efc9bff5fbabf0063248bf9857da652099f02ab2[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 1 10:11:08 2021 +0900
+
+    [백준] 6087번 : 레이저 통신 (기존의 bfs와 다른 점 정리)
+
+[33mcommit 39cc4f01d3fd5fdc2bfbe905ed536cf7397f92ff[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 1 08:55:45 2021 +0900
+
+    [백준] 16954번 : 움직이는 미로 탈출 (bfs 심화)
+
+[33mcommit 9b3ddbb980d7278076aa65dd7a2838e5bcfc47ed[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 1 08:53:33 2021 +0900
+
+    [백준] 16236번 : 아기상어 (bfs 심화 + vector< tuple<int, int, int> > 의 원소 출력 방법 공부)
+
+[33mcommit 3cbaca6fa22b02ffe7f0d954a9a639c49389cb96[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Jan 1 06:58:57 2021 +0900
+
+    [백준] 16954번 : 움직이는 미로 탈출
+
+[33mcommit bfa039c83e196d901d6f3fa63ad91fa9e13c4ed0[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Dec 30 11:08:30 2020 +0900
+
+    [백준] 16933번 : 벽 부수고 이동하기 3 (14442번과의 차이점)
+
+[33mcommit f76b23de56f770e8b8e6af0ee1a8f2a75734c526[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Dec 30 10:34:12 2020 +0900
+
+    [백준] 14442번 : 벽 부수고 이동하기 2 (2206번과의 차이점)
+
+[33mcommit a788e94a3565f6f4741da67e22c5f061f742483e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Dec 30 09:37:19 2020 +0900
+
+    [백준] 2206번 : 벽 부수고 이동하기 (3차원 배열 + bfs)
+
+[33mcommit 938a470bd8dc8fa88f8df508669305600cac700f[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Dec 29 10:35:38 2020 +0900
+
+    [백준] 1939번 : 중량 제한 (dfs + 이분 탐색)
+
+[33mcommit 18dfb9ddaf20ac1c0d7cc66bd625fa98fd1a7505[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Dec 29 10:33:05 2020 +0900
+
+    [백준] 1939번 : 중량 제한 (bfs + 이분 탐색)
+
+[33mcommit 03ed04ae5b1fa2a8e7bb5ad2b71d331ffea386a4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Dec 29 10:07:23 2020 +0900
+
+    [백준] 11664번 : 선분과 점 (최댓값 or 최솟값을 찾는 삼분탐색)
+
+[33mcommit d248b5ef4ffff6dffc157e29caafa93999f01d0e[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Tue Dec 29 08:59:27 2020 +0900
+
+    [백준] 1939번 : 중량 제한 (그래프 문제+ 그래프 탐색+ 이분 탐색)
+
+[33mcommit 001cc8f1c9c72be3831c1c84202c50556f5ed67b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Dec 28 23:11:07 2020 +0900
+
+    [백준] 2805번 : 나무 자르기 (이분/이진 탐색)
+
+[33mcommit 895ca89f87dafdedda74e6a85124e20682f8cc6c[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Dec 28 23:04:39 2020 +0900
+
+    [백준] 2110번 : 공유기 설치 (이분/이진 탐색)
+
+[33mcommit 57cab4f7a7b93ef5dfa2db11cbb8b9834684b313[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Dec 28 22:31:30 2020 +0900
+
+    [백준] 2805번 : 나무 자르기 (이분/이진 탐색)
+
+[33mcommit 26f22ba226a904b255c9d52d62c647dcd509fc78[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Dec 28 22:29:05 2020 +0900
+
+    [백준] 2805번 : 나무 자르기 (이분/이진 탐색)
+
+[33mcommit 127e54450db1947121b70fb3cd8ab21e862a7fcb[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Dec 28 22:15:50 2020 +0900
+
+    [백준] 1654번 : 랜선 자르기 (이분/이진 탐색)
+
+[33mcommit 97743e65ba2ff16bd7ddda4826d4ec8a2a0102fa[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Mon Dec 28 21:43:08 2020 +0900
+
+    [백준] 1790번 : 수 이어 쓰기 2 (이분/이진 탐색)
+
+[33mcommit d0b721266da2ee9f1dc52811a8bd73efff2348d4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Dec 27 02:03:52 2020 +0900
+
+    [백준] 1517번 : 버블 소트 (버블소트의 swap 횟수 구하기)
+
+[33mcommit 03973b7c7b7305b7a39a7d7b5a2d72d5a0f08e3b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Dec 27 02:00:52 2020 +0900
+
+    [백준] 1517번: 버블소트 (버블소트의 swap  횟수 구하는 문제 - O(n^2) 으로는 구할 수 없는 문제이므로, merge 소트를 이용하여 버블소트의 swap 횟수를 구하는 방법을 소개)
+
+[33mcommit 65dace34da25349f9c32d39d28b70cce099e1f69[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Dec 27 00:53:52 2020 +0900
+
+    [백준] 2263번 : 트리의 순회 (pre,in,postorder의순회 순서의 차이 + 시간복잡도 줄이는 방법(
+
+[33mcommit 6e1f30d11719afc06c8a2dadc4da200583a44399[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sun Dec 27 00:26:58 2020 +0900
+
+    [백준] 11729번 : 하노이 탑 이동 순서
+
+[33mcommit 45350fc27a44effb97d41738c858534a0289356b[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Dec 26 04:51:15 2020 +0900
+
+    [백준] 1780번 : 종이의 개수( 분할정복 기초 + 재귀함수)
+
+[33mcommit d276183d93ea3a25024ff69611dda8d1963ed2f0[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Dec 26 04:49:58 2020 +0900
+
+    백준
+
+[33mcommit a458d682458182ddcfe3d712c4e08856d2daac83[m
+Merge: 641c852 0f5ba1b
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Dec 26 04:45:32 2020 +0900
+
+    Merge branch 'main' of https://github.com/shinbian11/ProblemSolving into main
+
+[33mcommit 641c852ad6a29c096d612a3d48f1d03531d9b8cd[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Sat Dec 26 04:45:17 2020 +0900
+
+    [백준] 1780번 : 종이의 개수 (분할 정복 + 재귀함수)
+
+[33mcommit 0f5ba1b4deb290cb7538f4a3b710587e1cdce307[m
+Author: shinbian11 <59140182+shinbian11@users.noreply.github.com>
+Date:   Wed Dec 23 16:54:26 2020 +0900
+
+    Update README.md
+
+[33mcommit 10941f9af0830e2c51c800e4bee33aaa8c964c74[m
+Author: shinbian11 <59140182+shinbian11@users.noreply.github.com>
+Date:   Wed Dec 23 16:53:57 2020 +0900
+
+    Update README.md
+
+[33mcommit a9af71cee7104105a93f17b64bd5a83c577479a1[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Dec 23 16:52:58 2020 +0900
+
+    [백준] 1080번 : 그리디 + F_I 주의점
+
+[33mcommit c7995e7a59007b72723cbe6853430d84a0dfcef4[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Dec 23 16:49:30 2020 +0900
+
+    [백준] 1080번 : 행렬 (그리디 + F_I 주의점)
+
+[33mcommit f0d4176b25536682f873e1e6fbe04ab1161bf659[m
+Merge: 9af7980 3db0c61
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Dec 23 16:45:52 2020 +0900
+
+    Merge branch 'main' of https://github.com/shinbian11/ProblemSolving into main
+
+[33mcommit 9af798030f78114136302979537e7832d2662b11[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Wed Dec 23 16:45:36 2020 +0900
+
+    [백준] 1080번 : 행렬 => 그리디, 주의점
+
+[33mcommit 3db0c6144d91c199540a1c108b1cf9c410f23110[m
+Author: shinbian11 <59140182+shinbian11@users.noreply.github.com>
+Date:   Fri Dec 18 21:14:48 2020 +0900
+
+    Update README.md
+
+[33mcommit 8a6a89b8d20ca189a40c4e34476b500353a675d6[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Dec 18 21:09:41 2020 +0900
+
+    [백준] 9663번 : N-Queen (backtracking , recursive)
+
+[33mcommit f75ba043d3955eed829caa608752d13fd0a3b25a[m
+Merge: a589cf4 a71b03e
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Oct 30 15:08:50 2020 +0900
+
+    Merge branch 'main' of https://github.com/shinbian11/ProblemSolving into main
+
+[33mcommit a589cf4e9baf2fe8a31ffc1e91cb918926fb770a[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Oct 30 15:07:25 2020 +0900
+
+    [백준] 11650번 : 좌표 정렬하기 & qsort에 대해서
+
+[33mcommit a71b03e8c6c616796661e520acb773a39fa28b60[m
+Author: shinbian11 <59140182+shinbian11@users.noreply.github.com>
+Date:   Fri Oct 30 02:28:24 2020 +0900
+
+    [백준] 2751번 : 수 정렬하기 2 & Merge Sort 에 대해서
+
+[33mcommit a2a9a1b7ffc9c1254db4b85c4c0402fbf02e4b3d[m
+Author: shinbian11 <59140182+shinbian11@users.noreply.github.com>
+Date:   Fri Oct 30 02:27:43 2020 +0900
+
+    Update mergeSort.cpp
+
+[33mcommit c5486677fdc767ef4f91349d9c6dfbbad52c2096[m
+Author: shinbian11 <shinbian11@gmail.com>
+Date:   Fri Oct 30 02:18:38 2020 +0900
+
+    [백준] 2751번 : 수 정렬하기 2 & Merge Sort 에 대해서
+
+[33mcommit 9499ada56f85430a69e15ce91b7b8d99de0df2c0[m
+Author: shinbian11 <59140182+shinbian11@users.noreply.github.com>
+Date:   Fri Oct 30 02:07:51 2020 +0900
+
+    Initial commit
